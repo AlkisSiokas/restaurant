@@ -40,7 +40,7 @@ const Footer = () => (
     </div>
 
     <div className="footer__copyright">
-      <p className="p__opensans" style={{ color: '#AAAAAA' }}>2021 Gericht. All Rights reserved.</p>
+      <p className="p__opensans" style={{ color: '#AAAAAA' }}>©2023 Gericht. All Rights reserved.</p>
     </div>
 
   </div>
